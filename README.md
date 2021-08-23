@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html>
   <head>
     <meta charset="utf-8">
-    <title>MELTSTAND</title>
+<!--     <title>MELTSTAND</title> -->
     <link rel="stylesheet" href="meltstand.css">
     <link rel="stylesheet" href="meltstand-res.css">
 <!-- フォントサンプルシート  -->
