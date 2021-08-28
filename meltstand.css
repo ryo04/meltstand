@@ -11,10 +11,10 @@ main{
     text-align: center;
 }
 
-.container {
+/* .container {
   width: 100%;
   height: 65px;
-}
+} */
 
  header {
     height: 65px;
@@ -50,7 +50,8 @@ padding-left: -7px;
 .header-left p{
   float: right;
   padding-left: 10px;
-  margin-bottom: 10px;
+  margin: 0px;
+/*   margin-bottom: 10px; */
   font-family: 'M PLUS Rounded 1c', sans-serif;
   /*font-family: 'HGP創英角ﾎﾟｯﾌﾟ体';*/
 }
