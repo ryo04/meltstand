@@ -1,0 +1,31 @@
+/*タブレット向けレイアウト*/
+@media screen and (max-width: 1000px) {
+
+  .time{
+    font-size: 20px;
+  }
+}
+
+/* スマホ向けレイアウト */
+@media screen and (max-width: 670px) {
+
+  .header-right{
+    font-size: 15px;
+  }
+
+  .header-left{
+    font-size: 15px;
+  }
+
+  .time{
+    font-size: 25px;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .header-right{
+    display:none;
+  }
+}
