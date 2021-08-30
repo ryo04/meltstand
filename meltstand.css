@@ -51,9 +51,8 @@ padding-left: -7px;
 .header-left p{
   float: right;
   padding-left: 10px;
-  margin: 0px;
+/*   margin: 0px; */
   font-family: 'M PLUS Rounded 1c', sans-serif;
-    /*font-family: 'HGP創英角ﾎﾟｯﾌﾟ体';*/
 }
 
 .shopname{
